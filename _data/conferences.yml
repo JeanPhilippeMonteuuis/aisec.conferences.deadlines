@@ -37,7 +37,7 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: "August 12-14"
   place: Baltimore, MD, USA
-  tags: [SEC, PRIV, CONF, TOP4]
+  tags: [SEC]
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
@@ -50,5 +50,78 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: "February 23-27"
   place: San Diego, CA, USA
-  tags: [SEC, PRIV, CONF, TOP4]
+  tags: [SEC]
 
+# Machine Learning and AI
+
+- name: NeurIPS
+  description: Conference on Neural Information Processing Systems
+  year: 2026
+  link: https://neurips.cc/
+  dblp: https://dblp.org/db/conf/nips/index.html
+  deadline:
+    - "2026-05-15 23:59"
+  comment: Abstract deadline typically 1 week before paper deadline.
+  date: "December 6-12"
+  place: Sydney, Australia
+  tags: [AI]
+
+- name: ICLR
+  description: International Conference on Learning Representations
+  year: 2026
+  link: https://iclr.cc/Conferences/2026
+  dblp: https://dblp.org/db/conf/iclr/index.html
+  deadline:
+    - "2025-09-24 23:59"
+  comment: Abstract deadline Sep 19, 2025.
+  date: "April 23-27"
+  place: Rio de Janeiro, Brazil
+  tags: [AI]
+
+- name: ICML
+  description: International Conference on Machine Learning
+  year: 2026
+  link: https://icml.cc/Conferences/2026
+  dblp: https://dblp.org/db/conf/icml/index.html
+  deadline:
+    - "2026-01-28 23:59"
+  comment: Abstract deadline Jan 23, 2026.
+  date: "July 6-11"
+  place: Seoul, South Korea
+  tags: [AI]
+
+- name: CVPR
+  description: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  year: 2026
+  link: https://cvpr.thecvf.com/Conferences/2026
+  dblp: https://dblp.org/db/conf/cvpr/index.html
+  deadline:
+    - "2025-11-13 23:59"
+  comment: Abstract deadline Nov 7, 2025.
+  date: "June 3-7"
+  place: Denver, CO, USA
+  tags: [AI]
+
+- name: ACL
+  description: Annual Meeting of the Association for Computational Linguistics
+  year: 2026
+  link: https://2026.aclweb.org/
+  dblp: https://dblp.org/db/conf/acl/index.html
+  deadline:
+    - "2026-03-14 23:59"
+  comment: Submission to ARR by Jan 5, 2026. Commitment deadline Mar 14, 2026.
+  date: "July 2-7"
+  place: San Diego, CA, USA
+  tags: [AI]
+
+- name: AAAI
+  description: AAAI Conference on Artificial Intelligence
+  year: 2026
+  link: https://aaai.org/conference/aaai/aaai-26/
+  dblp: https://dblp.org/db/conf/aaai/index.html
+  deadline:
+    - "2025-08-01 23:59"
+  comment: Abstract deadline Jul 25, 2025.
+  date: "January 20-27"
+  place: Singapore
+  tags: [AI]
